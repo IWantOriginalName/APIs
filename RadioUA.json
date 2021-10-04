@@ -2,4 +2,64 @@
   "name": "KissFM",
   "stream": "https://online.kissfm.ua/KissFM",
   "icon": "https://cdn-profiles.tunein.com/s104870/images/logod.png?t=636403"
+}, {
+  "name": "KISS FM Ukrainian",
+  "stream": "https://online.kissfm.ua/KissFM_Ukr_HD",
+  "icon": "https://play.tavr.media/static/image/header_menu/kiss_ukrainian_210x210.png"
+}, {
+  "name": "KISS FM Deep",
+  "stream": "https://online.kissfm.ua/KissFM_Deep",
+  "icon": "https://play.tavr.media/static/image/header_menu/kiss_deep_210x210.png"
+}, {
+  "name": "KISS FM Black (18+)",
+  "stream": "https://online.kissfm.ua/KissFM_Black_HD",
+  "icon": "https://play.tavr.media/static/image/header_menu/kiss_digital_210x210.png"
+}, {
+  "name": "KISS FM Digital",
+  "stream": "https://online.kissfm.ua/KissFM_Digital_HD",
+  "icon": "https://play.tavr.media/static/image/header_menu/kiss_deep_210x210.png"
+}, {
+  "name": "KISS FM Trendz (18+)",
+  "stream": "https://online.kissfm.ua/KissFM_Trendz_HD",
+  "icon": "https://play.tavr.media/static/image/header_menu/kiss_trendz_210x210.png"
+}, {
+  "name": "ХітFM",
+  "stream": "https://online.hitfm.ua/HitFM",
+  "icon": "https://cdn-profiles.tunein.com/s6122/images/logod.png?t=1"
+}, {
+  "name": "LuxFM",
+  "stream": "https://icecast.luxnet.ua/lux?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMjUxMjg4MywiaXNzIjoidGlzcnYifQ.zg4u0uHS6aTkDQvuBWnGElQUjJ4Og72hD9-V0Kb_H44",
+  "icon": "https://cdn-radiotime-logos.tunein.com/s55142d.png"
+}, {
+  "name": "RadioRocks",
+  "stream": "https://online.radioroks.ua/RadioROKS",
+  "icon": "https://cdn-profiles.tunein.com/s103802/images/logod.png?t=636403"
+}, {
+  "name": "Русское Радио Украина",
+  "stream": "https://online.rusradio.ua/RusRadio",
+  "icon": "https://cdn-radiotime-logos.tunein.com/s124167d.png"
+}, {
+  "name": "MelodiaFM",
+  "stream": "https://online.melodiafm.ua/MelodiaFM",
+  "icon": "https://cdn-profiles.tunein.com/s112679/images/logod.png?t=158327"
+}, {
+  "name": "Радіо Релакс",
+  "stream": "https://online.radiorelax.ua/RadioRelax",
+  "icon": "https://cdn-profiles.tunein.com/s131659/images/logod.png?t=636403"
+}, {
+  "name": "LoungeFM",
+  "stream": "https://cast.radiogroup.com.ua/loungefm",
+  "icon": "http://loungefm.com.ua/img/logo.png"
+}, {
+  "name": "MFM",
+  "stream": "https://radio.mfm.ua/online128?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMjUxNzU5NCwiaXNzIjoidGlzcnYifQ.bG5iKQBE_qzOV7G4sOMwM_SdzAIvBwa3X1yftM4zxlQ",
+  "icon": "https://cdn-radiotime-logos.tunein.com/s81348d.png"
+}, {
+  "name": "Nashe Radio Ukraine",
+  "stream": "https://online.nasheradio.ua/NasheRadio_HD",
+  "icon": "https://cdn-profiles.tunein.com/s9542/images/logod.png?t=2"
+}, {
+  "name": "Наше Радіо УкрТоп100",
+  "stream": "https://online.nasheradio.ua/NasheRadio_Ukr_HD",
+  "icon": "https://play.tavr.media/static/image/nashe/NasheRadio_UkrTOP100_228x228.png"
 }]
