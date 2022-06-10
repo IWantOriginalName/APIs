@@ -1,4 +1,8 @@
 [{
+  "name": "АрміяFM",
+  "stream": "https://icecast.armyfm.com.ua:8443/ArmyFM",
+  "icon": "https://www.armyfm.com.ua/templates/army/img/logo.png"
+}, {
   "name": "KissFM",
   "stream": "https://online.kissfm.ua/KissFM",
   "icon": "https://cdn-profiles.tunein.com/s104870/images/logod.png?t=636403"
